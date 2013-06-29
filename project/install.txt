@@ -1,0 +1,37 @@
+Project image processing
+by L. Ovaere, C. Sysmans, S. Naert & C. Verstraeten
+_____________________________________________________
+
+Inhoud zip-file
+______________________
+root
+├───Code: code.
+│   └───threads
+├───Paper: pdf-version.
+├───Project proposal: pdf-version 
+└───Visual Studio Project: the Visual Studio 2012 project
+    └───KoffiezetDetection
+        └───threads
+
+1.1 OpenCV-installation (Windows 7 <= ..)
+______________________
+1. Download the OpenCV-library via: http://opencv.org/downloads.html (OpenCV versie 2.4.4.  or higher)
+
+2. Add following environment vars:
+  a/ 'OPENCV_DIR'
+     <OpenCV_FILES_ROOT>\build\x64\vc11
+
+  b/ 'OPENCV_INCLUDE'
+     <OpenCV_FILES_ROOT>\build\include;
+     <OpenCV_FILES_ROOT>\build\include\opencv;
+     <OpenCV_FILES_ROOT>\build\include\opencv2
+
+  c/ 'Path'
+     <OpenCV_FILES_ROOT>\build\x64\vc11\bin
+
+1.2 Visual C++ Redistributable for Visual Studio 2012
+_____________________________________________________
+1. Download installer (x64) on Microsoft-website.
+=> http://www.microsoft.com/en-us/download/confirmation.aspx?id=30679
+2. Install file.
+
