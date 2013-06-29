@@ -2,7 +2,7 @@ Project image processing
 by L. Ovaere, C. Sysmans, S. Naert & C. Verstraeten
 _____________________________________________________
 
-Inhoud zip-file
+Zip => files
 ______________________
 root
 ├───Code: code.
